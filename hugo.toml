@@ -1,0 +1,23 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Penguixrc'
+theme = "smol"
+
+# Parameters
+[params]
+    subtitle = ""
+    dateFmt = "02.01.2006 15:04"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 1 
+
+  # Footer
+  [[menu.footer]]
+        name = "Github"
+        url = "https://github.com/penguixrc"
+        weight = 1
