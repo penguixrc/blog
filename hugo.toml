@@ -1,4 +1,4 @@
-baseURL = 'https://penguixrc.neocities.org/'
+baseURL = 'https://penguixrc.github.io/'
 languageCode = 'en-us'
 title = 'Penguixrc'
 theme = "smol"
