@@ -14,7 +14,13 @@ theme = "smol"
         identifier = "posts"
         name = "Posts"
         url = "/posts/"
-        weight = 1 
+        weight = 1
+
+  [[menu.main]]
+	indentifier = "library"
+	name = "Library"
+	url = "/library"
+	weight = 1
 
   # Footer
   [[menu.footer]]
