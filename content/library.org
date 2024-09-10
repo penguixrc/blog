@@ -1,11 +1,7 @@
 ---
 title: "Library"
-date: 2024-09-10T10:20:07-03:00
-draft: false
+xdraft: false
 ---
-
-#+Title: Library
-#+Author: penguixrc
 
 This is a collection of books I’ve read (or at least started reading).
 
