@@ -6,16 +6,12 @@ xdraft: false
 This is a collection of books I’ve read (or at least started reading).
 
 * Buddhism
-[[file:/amida-sanzon.jpg]]
 
 - 選択本願念仏集 - 法然上人
 - 仏教聖典 - 仏教伝道協会
 - 観無量寿経
-- Collected Refutations of Heterodoxy - 蕅益智旭
-- Deus Destroyed - 不干斎ハビアン
 - Heart Sutra with Commentary - 宣化
 - Honen The Buddhist Saint: Essential Writings and Official Biography - Joseph A. Fitzgerald (Editor)
-- Laughing at Christianity - Kiyū Dōjin
 - Lives of Great Monks and Nuns - 仏教伝道協会
 - 佛說無量壽經
 - Mahayana Buddhism: The Doctrinal Foundations - Paul Williams
@@ -24,51 +20,48 @@ This is a collection of books I’ve read (or at least started reading).
 - 和語灯録 - 法然上人
 
 * Confucianism
-[[file:/confucius.jpg]]
 
 - 大學 - 曾子
 - 中庸 - 子思
 
+* Christianity
+- Collected Refutations of Heterodoxy - 蕅益智旭
+- Deus Destroyed - 不干斎ハビアン
+- Laughing at Christianity - Kiyū Dōjin
+
 * Deism
-[[file:/thomas-paine.jpg]]
 
 - The Age of Reason; Being an Investigation of True and Fabulous Theology - Thomas Paine
 
 * Economy
-[[file:/ae.png]]
 
 - Economic Policy: Thoughts for Today and Tomorrow - Ludwig Heinrich Edler von Mises
 - Exploitation Theory of Socialism-Communism: The Idea That All Unearned Income (Rent, Interest and Profit Involves Economic Injustice) - Eugen Böhm Ritter von Bawerk
 
 * Metaphysics
-[[file:/socrates.jpg]]
 
 - Παρμενίδης - Πλάτων
 
 * Poetry
-[[file:/virgil.jpg]]
 
 - Divine Comedy - Dante Alighieri
 
 * Pop culture
-[[file:/city.jpg]]
 
 - The Moe Manifesto: An Insider's Look at the Worlds of Manga, Anime, and Gaming - Patrick W. Galbraith
   
 * Political philosophy
-[[file:/scuola-di-atene.jpg]]
 
 - Democracy: The God That Failed - Hans-Hermann Hoppe
 - Liberty or Equality: The Challenge of Our Time - Erik Maria Ritter von Kuehnelt-Leddihn
 - The Ethics of Liberty - Murray Newton Rothbard
 
 * Shinto
-[[file:/izanamitoizanagi.jpg]]
 
 - Shinto: The Kami Way – 小野 祖教
 - 神道の神秘: 古神道の思想と行法 - 山蔭基央
   
 * Unix
-[[file:/ken-and-den.jpg]]
 
 - The Linux Command Line: A Complete Introduction -  Jr. Shotts, William E.
+- The C Programming Language - K&R

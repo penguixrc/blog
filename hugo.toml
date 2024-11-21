@@ -22,6 +22,12 @@ theme = "smol"
 	url = "/library"
 	weight = 1
 
+  [[menu.main]]
+	indentifier = "gallery"
+	name = "Gallery"
+	url = "/gallery"
+	weight = 1
+
   # Footer
   [[menu.footer]]
         name = "Github"

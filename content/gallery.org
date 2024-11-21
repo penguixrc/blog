@@ -1,0 +1,17 @@
+---
+title: "Gallery"
+draft: false
+---
+Some beautiful images.
+
+[[file:/amida-sanzon.jpg]]
+
+[[file:/izanamitoizanagi.jpg]]
+
+[[file:/confucius.jpg]]
+
+[[file:/socrates.jpg]]
+
+[[file:/virgil.jpg]]
+
+[[file:/ken-and-den.jpg]]
